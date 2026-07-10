@@ -16,9 +16,9 @@
 
 ## About
 
-MinimalRice is my old Hyprland rice — dark, minimal, terminal-heavy. It uses Hyprland as the compositor, Waybar for the status bar, Kitty as the terminal, Rofi for the launcher/powermenu, Zsh + Powerlevel10k for the shell, and a few terminal monitors (Cava, Unimatrix, BpyTOP) running as floating panels on startup.
+MinimalRice is my old Lain theme Hyprland rice. It uses Hyprland as the compositor, Waybar for the status bar, Kitty as the terminal, Rofi fo the launcher/powermenu, Zsh + Powerlevel10k for the shell, and a few terminal monitors (Cava, Unimatrix, BpyTOP) running as floating panels on startup.
 
-I'm not actively using this setup day-to-day anymore, but it's fully working and set up to be usable by anyone who wants to try it.
+⚠️ **Status Note:** I am no longer using this setup day-to-day, but it is fully working and ready to be used by anyone who wants to try it. Please feel free to contribute, open issues, or submit pull requests in any way!
 
 ## Prerequisites
 
