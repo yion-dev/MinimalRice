@@ -1,4 +1,4 @@
-<h1 align="center">MinimalRice (My Old Config)</h1>
+<h1 align="center">MinimalRice</h1>
 
 <table align="center">
   <tr>
